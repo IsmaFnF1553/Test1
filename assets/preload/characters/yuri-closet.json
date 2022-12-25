@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BlurriIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BlurriRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BlurriUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BlurriDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				53,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BlurriLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "appear",
+			"fps": 24,
+			"name": "BlurriAppear",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yuri_Closet",
+	"position": [
+		60,
+		20
+	],
+	"healthicon": "yuri-closet",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		30
+	],
+	"camera_position": [
+		-300,
+		-141
+	],
+	"sing_duration": 6,
+	"scale": 1.4
+}
